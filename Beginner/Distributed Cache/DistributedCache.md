@@ -22,6 +22,7 @@
  - put(key, value)
  - get(key)
 
+
 ### Non-Functional
 - **Scalable** → Should handle a large number of requests and store a large amount of cached data.
 - **Highly Available** → Should survive hardware or network failures (ensures minimal cache misses).
