@@ -64,8 +64,7 @@ cache client is who calls the Cache servers
  - Expensive ⚠️
 
 # Higher Availability
-![img.png](img.png)
-
+![Availability.png](../../Pics/Availability.png)
 - Put method on Master
 - Get Method on Master and slave
 
